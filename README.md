@@ -1,7 +1,7 @@
 ## Pedro Soares
 **`Analista e Desenvolvedor de Sistemas Júnior | Full-Stacks`**
 
-Me chamo Pedro Soares, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e atuo como estagiário na área de engenharia de projetos. Também realizo alguns trabalhos como freelancer, desenvolvendo soluções sob medida conforme as necessidades dos clientes.
+Me chamo Pedro Soares, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e atuo como estagiário na área de engenharia de projetos. Também realizo alguns trabalhos como freelancer, desenvolvendo soluções sob medida conforme as necessidades dos clientes.
 
 Sou apaixonado por tecnologia e motivado pela ideia de usar a programação para criar soluções úteis e inteligentes. Além dos estudos e do trabalho, compartilho o que aprendo no meu canal do YouTube, com vídeos voltados ao desenvolvimento e à prática da programação, e também no meu "[LinkedIn](https://www.linkedin.com/in/pedro-soares-868a10293/)", onde publico reflexões, experiências e dicas sobre minha jornada na área de tecnologia.
 
